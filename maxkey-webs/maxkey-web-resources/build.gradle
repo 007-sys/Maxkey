@@ -1,0 +1,8 @@
+description = "maxkey-web-resources"
+
+//add support for Java
+apply plugin: 'java'
+
+dependencies {
+   	
+}
